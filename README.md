@@ -20,4 +20,7 @@ meteor --port 80 # to launch at port 80.
 ## Demo
 http://meteor-mapping.meteor.com/
 
-Consider clicking the map to add points/markers. Clicking clear will clear the markers after the next reload only (this is temporary issue, will fix soon). You can open multiple browsers/instances of browsers and check the same field of view on the map for all instances. Add points. Observe that points will be added in real time to other views as well.
+Consider clicking the map to add points/markers. Clicking clear will clear the markers after the next reload only (this is temporary issue, will fix soon). You can open multiple browsers/instances of browsers and check the same field of view on the map for all instances. 
+
+1. Add points on one instance of the browser. 
+1. Check on another instance if the point appeared on the same location.
